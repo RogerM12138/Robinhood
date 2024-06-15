@@ -1,3 +1,6 @@
+'''
+Get amount of deposit, gain, and investment. Get gain stats for each stocks/ETF/Crypto
+'''
 import pandas as pd
 import numpy as np
 
